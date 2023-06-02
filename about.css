@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(5, 0, 44);
+    color: white;
+}
+.content{
+   margin-left: 30%;
+}
+.content h1{
+    margin: 0px 200px;
+    font-size: 40px;
+}
+.content ul{
+    display: flex;
+    width: 70%;
+    margin: 20px;
+}
+.content ul li{
+    margin: 0px 20px;
+
+}
+.content img{
+    width: 200px;
+    height: 200px;
+    margin: 20px 200px;
+}
+.content p{
+    width: 600px;
+}
+.box{
+    display: flex;
+    margin: 40px 270px;
+
+}
+.box img{
+    width: 60px;
+    margin-left: 60px;
+}
+.box h3{
+    margin: 20px 5px;
+}
+.box h2{
+    margin: 20px 5px;
+}
